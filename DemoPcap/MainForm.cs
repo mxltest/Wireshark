@@ -56,11 +56,7 @@ namespace DemoPcap
         private void MainForm_Load(object sender, EventArgs e)
         {
             
-            //foreach (var dev in WinPcapDeviceList.Instance)
-            //{
-            //    var str = String.Format("{0}：{1}", dev.Interface.FriendlyName, dev.Description);
-            //    this.combDevice.Items.Add(str);
-            //}
+
 
             foreach (var dev in CaptureDeviceList.Instance)
             {
@@ -193,10 +189,7 @@ namespace DemoPcap
             var tcpPacket =  packet.Extract(typeof (TcpPacket));
             if (tcpPacket != null)
             {
-                //if (!string.IsNullOrEmpty(txtPorts.Text) && txtPorts.Text.IndexOf(tcpPacket.SourcePort.ToString()) == -1)
-                //{
-                //    return;
-                //}
+
 
                 var ipPacket = (PacketDotNet.IpPacket)tcpPacket.ParentPacket;
                 IPAddress srcIp = ipPacket.SourceAddress;
@@ -344,10 +337,7 @@ namespace DemoPcap
 
                     this.rtxtPacketInfo.Text = string.Format("序号{6}>>源IP:{0}端口:{1}>>目标IP:{2}端口:{3}时间:{4}>>内容：{5}-------->数据：{7} \n", srcIp.ToString(), udpPacket.SourcePort, dstIp.ToString(), udpPacket.DestinationPort, packetWrapper.Timeval.Date.ToString("yyyy-MM-dd HH:mm:ss"), UDPPacketData.PrintHex(), packetWrapper.Count, PrintHexString(UDPPacketData.PayloadData, "-"));
                 }
-                //byte[] re = udpPacket.PayloadData;
-                //byte[] re2 = udpPacket.Bytes;
-                //byte[] re3 = packetWrapper.p.Data;
-                //Console.WriteLine("这是UDP"+ udpPacket.PrintHex());
+
                 
             }
         }
@@ -358,19 +348,9 @@ namespace DemoPcap
             {
                 device.StopCapture();
                 device.Close();
-                //device.OnPacketArrival -= arrivalEventHandler;
-                //device.OnCaptureStopped -= captureStoppedEventHandler;
                 device = null;
-
-                // ask the background thread to shut down
                 backgroundThreadStop = true;
-
-                // wait for the background thread to terminate
                 backgroundThread.Join();
-
-                // switch the icon back to the play icon
-                //startStopToolStripButton.Image = global::WinformsExample.Properties.Resources.play_icon_enabled;
-                //startStopToolStripButton.ToolTipText = "Select device to capture from";
             }
         }
 
@@ -431,11 +411,8 @@ namespace DemoPcap
             {
                 var device = WinPcapDeviceList.Instance[this.combDevice.SelectedIndex];
                 this.txtDeviceName.Text=device.Interface.FriendlyName;
-                //this.txtIpAddr.Text= device.Interface.Addresses[1].Addr.ipAddress.ToString();
-                //this.txtMask.Text= device.Interface.Addresses[1].Netmask.ipAddress.ToString();
-                //this.txtMacAddr.Text= PrintHexString(device.Interface.MacAddress.GetAddressBytes(), "-"); 
+
                 this.txtDesc.Text= device.Interface.Description;
-                //this.txtDeviceInfo.AppendText(string.Format("Loopback:{0}\n", device.Loopback));
             }
             else {
                 this.txtDeviceName.Text = "";
@@ -483,10 +460,7 @@ namespace DemoPcap
             var tcpPacket = (TcpPacket)packet.Extract(typeof(TcpPacket));
             if (tcpPacket != null)
             {
-                //if (!string.IsNullOrEmpty(txtPorts.Text) && txtPorts.Text.IndexOf(tcpPacket.SourcePort.ToString()) == -1)
-                //{
-                //    return;
-                //}
+
                 if (tcpPacket.ParentPacket==null) { return; }
                 var ipPacket = (PacketDotNet.IpPacket)tcpPacket.ParentPacket;
                 
@@ -512,11 +486,6 @@ namespace DemoPcap
                 Type = ipPacket.Protocol;
 
             }
-
-
-
-            
-            
             
         }
     }
