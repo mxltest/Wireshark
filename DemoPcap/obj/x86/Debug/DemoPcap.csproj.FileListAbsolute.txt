@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\x86\Debug\DemoPcap.MainForm.resources
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\x86\Debug\DemoPcap.Properties.Resources.resources
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\x86\Debug\DemoPcap.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\DemoPcap.exe.config
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\DemoPcap.exe
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\DemoPcap.pdb
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\PacketDotNet.dll
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\SharpPcap.dll
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\PacketDotNet.xml
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\SharpPcap.xml
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\x86\Debug\DemoPcap.exe
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\x86\Debug\DemoPcap.pdb

@@ -1,0 +1,51 @@
+D:\MyProject\DemoCSharp\DemoPcap\bin\Debug\DemoPcap.exe.config
+D:\MyProject\DemoCSharp\DemoPcap\bin\Debug\DemoPcap.exe
+D:\MyProject\DemoCSharp\DemoPcap\bin\Debug\DemoPcap.pdb
+D:\MyProject\DemoCSharp\DemoPcap\bin\Debug\PacketDotNet.dll
+D:\MyProject\DemoCSharp\DemoPcap\bin\Debug\SharpPcap.dll
+D:\MyProject\DemoCSharp\DemoPcap\bin\Debug\PacketDotNet.xml
+D:\MyProject\DemoCSharp\DemoPcap\bin\Debug\SharpPcap.xml
+D:\MyProject\DemoCSharp\DemoPcap\obj\Debug\DemoPcap.MainForm.resources
+D:\MyProject\DemoCSharp\DemoPcap\obj\Debug\DemoPcap.Properties.Resources.resources
+D:\MyProject\DemoCSharp\DemoPcap\obj\Debug\DemoPcap.csproj.GenerateResource.Cache
+D:\MyProject\DemoCSharp\DemoPcap\obj\Debug\DemoPcap.exe
+D:\MyProject\DemoCSharp\DemoPcap\obj\Debug\DemoPcap.pdb
+D:\MyProject\DemoCSharp\DemoPcap\obj\Debug\DemoPcap.csprojResolveAssemblyReference.cache
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\bin\Debug\DemoPcap.exe.config
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\obj\Debug\DemoPcap.exe
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\obj\Debug\DemoPcap.pdb
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\bin\Debug\DemoPcap.exe
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\bin\Debug\DemoPcap.pdb
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\bin\Debug\PacketDotNet.dll
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\bin\Debug\SharpPcap.dll
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\bin\Debug\PacketDotNet.xml
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\bin\Debug\SharpPcap.xml
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\obj\Debug\DemoPcap.MainForm.resources
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\obj\Debug\DemoPcap.Properties.Resources.resources
+C:\Users\Lily\Documents\Visual Studio 2015\Projects\MyTest\DemoPcap\obj\Debug\DemoPcap.csproj.GenerateResource.Cache
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\bin\Debug\DemoPcap.exe.config
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.exe
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.pdb
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\bin\Debug\DemoPcap.exe
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\bin\Debug\DemoPcap.pdb
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\bin\Debug\PacketDotNet.dll
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\bin\Debug\SharpPcap.dll
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\bin\Debug\PacketDotNet.xml
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\bin\Debug\SharpPcap.xml
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.MainForm.resources
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.Properties.Resources.resources
+E:\项目资料\项目源码\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.MainForm.resources
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.Properties.Resources.resources
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\DemoPcap.exe.config
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\DemoPcap.exe
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\DemoPcap.pdb
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\PacketDotNet.dll
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\SharpPcap.dll
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\PacketDotNet.xml
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.exe
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\obj\Debug\DemoPcap.pdb
+C:\Users\asus\Desktop\DOIPWireShark\DemoPcap\bin\Debug\SharpPcap.xml
